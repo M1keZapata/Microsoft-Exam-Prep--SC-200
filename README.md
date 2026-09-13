@@ -6,8 +6,14 @@ Fast-tracking my certification acquisition is of the highest-priorty for me beca
 
 ## Study Tools
 
-1. Microsoft Learn Account
-2. Claude Code Subscription
+1. Azure Account
+   - Free Azure account(s) with $200 in credit available for first time sign-ups
+2. Office 365 E5 license
+   - 1-month free trials are available for **Microsoft 365 for Enterprise** website
+   - **Note**: 25 license provided with free trial
+3. Microsoft Learn Account
+4. Claude Code Subscription
+   - At least a `pro plan`
 
 ## Deep Dives
 
